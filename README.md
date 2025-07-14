@@ -38,21 +38,21 @@ Shows average trip duration for casual vs. member riders.
 ### 2. 📅 Monthly Ride Trends
 Reveals how ridership changes throughout the year.
 
-📄 [View CSV](r-outputs/monthly_ride_trends.csv)
+📄 monthly ride trends.csv
 
 ---
 
 ### 3. 📆 Ride Distribution by Day of Week
 Highlights ride frequency across different weekdays.
 
-📄 [View CSV](r-outputs/ride_distribution_by_day.csv)
+📄 ride distribution by day of week.csv
 
 ---
 
 ### 4. 🚴 Total Rides by User Type
 Compares total ride volume between casual and member riders.
 
-📄 [View CSV](r-outputs/total_rides_by_user_type.csv)
+📄 total ridesby user type.csv
 
 
 ## 📊 Tableau Dashboard
