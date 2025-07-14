@@ -24,22 +24,35 @@ The raw trip data was cleaned using SQL:
 
 ## 📈 R Visualizations
 
-R was used to generate quick EDA (exploratory data analysis) visuals:
+## 📈 R Visualizations
+
+These visualizations were created in R to explore UrbanRide bike-share usage.
 
 ### 1. 📊 Average Ride Duration by Rider Type
-- Compares casual vs member ride times
+Shows average trip duration for casual vs. member riders.
 
+📄 [View CSV](r-outputs/average_ride_duration.csv)
+
+---
 
 ### 2. 📅 Monthly Ride Trends
-- Reveals seasonal ridership patterns
+Reveals how ridership changes throughout the year.
+
+📄 [View CSV](r-outputs/monthly_ride_trends.csv)
+
+---
 
 ### 3. 📆 Ride Distribution by Day of Week
-- Which days see the most rides
+Highlights ride frequency across different weekdays.
 
+📄 [View CSV](r-outputs/ride_distribution_by_day.csv)
+
+---
 
 ### 4. 🚴 Total Rides by User Type
-- Breakdown of total rides taken by casual vs members
+Compares total ride volume between casual and member riders.
 
+📄 [View CSV](r-outputs/total_rides_by_user_type.csv)
 
 
 ## 📊 Tableau Dashboard
