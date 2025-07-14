@@ -31,7 +31,7 @@ These visualizations were created in R to explore UrbanRide bike-share usage.
 ### 1. 📊 Average Ride Duration by Rider Type
 Shows average trip duration for casual vs. member riders.
 
-📄 [View CSV](r-outputs/average_ride_duration.csv)
+📄 [View CSV](average_ride_duration.csv)
 
 ---
 
