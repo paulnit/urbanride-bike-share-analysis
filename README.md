@@ -28,24 +28,17 @@ R was used to generate quick EDA (exploratory data analysis) visuals:
 
 ### 1. 📊 Average Ride Duration by Rider Type
 - Compares casual vs member ride times
-- 📄 [CSV Output](r-outputs/average_ride_duration.csv)
+
 
 ### 2. 📅 Monthly Ride Trends
 - Reveals seasonal ridership patterns
-- 📄 [CSV Output](r-outputs/monthly_ride_trends.csv)
-- r-outputs/average_ride_duration.csv
 
 ### 3. 📆 Ride Distribution by Day of Week
 - Which days see the most rides
-- 📄 [CSV Output](r-outputs/ride_distribution_by_day.csv)
+
 
 ### 4. 🚴 Total Rides by User Type
 - Breakdown of total rides taken by casual vs members
-- 📄 [CSV Output](r-outputs/total_rides_by_user_type.csv)
-
-
-
-
 
 
 
@@ -56,8 +49,6 @@ Explore the interactive version here:
 
 
 
-
-![Dashboard Preview](screenshots/dashboard-preview.png)
 
 ### Dashboard Includes:
 - Rides by day of week
