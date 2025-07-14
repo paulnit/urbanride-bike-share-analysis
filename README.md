@@ -84,7 +84,7 @@ Explore the interactive version here:
 ## 🧑‍💻 Author
 
 **[Nitin Paul/Paulnit]**  
-📫 [LinkedIn or Portfolio URL]  
+📫 https://www.linkedin.com/in/nitin-paul961990/ 
 🔍 Seeking opportunities as a Junior Data Analyst
 
 ---
