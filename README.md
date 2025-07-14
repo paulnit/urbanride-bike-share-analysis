@@ -33,6 +33,7 @@ R was used to generate quick EDA (exploratory data analysis) visuals:
 ### 2. 📅 Monthly Ride Trends
 - Reveals seasonal ridership patterns
 - 📄 [CSV Output](r-outputs/monthly_ride_trends.csv)
+- r-outputs/average_ride_duration.csv
 
 ### 3. 📆 Ride Distribution by Day of Week
 - Which days see the most rides
